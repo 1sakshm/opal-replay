@@ -1,0 +1,5 @@
+torch>=2.6
+torchvision
+opal-optimizer==0.3.10
+huggingface_hub
+pyarrow
